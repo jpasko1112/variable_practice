@@ -18,3 +18,11 @@ cheese = 3.2
 
 hungry = true
 salty = false
+
+## New Strings
+
+name = "Walter"
+last_name = "Kronkite"
+
+puts "i like cheese"
+puts "You're a wizard Harry!"
