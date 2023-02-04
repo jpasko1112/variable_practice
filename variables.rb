@@ -13,3 +13,8 @@ kids = 2
 
 pi = 3.14
 cheese = 3.2
+
+## Booloeans
+
+hungry = true
+salty = false
